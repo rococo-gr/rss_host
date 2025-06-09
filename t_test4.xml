@@ -15,7 +15,7 @@
             </description>
             <link>https://yahoo.co.jp</link>
             <enclosure url="https://rococo-gr.github.io/rss_host/img/sample-image-1920x1008.png" length="111598" type="image/png"/>
-            <pubDate>Thu,8 May 2025 17:27:11 +0900</pubDate>
+            <pubDate>Thu,15 May 2025 17:27:11 +0900</pubDate>
         </item>
         <item>
             <title>テストタイトル2</title>
@@ -24,7 +24,7 @@
             </description>
             <link>https://www.click-sec.com/corp/guide/</link>
             <enclosure url="https://rococo-gr.github.io/rss_host/img/resized_1920x1008.png" length="111598" type="image/png"/>
-            <pubDate>Thu,8 May 2025 17:27:12 +0900</pubDate>
+            <pubDate>Thu,15 May 2025 17:27:12 +0900</pubDate>
         </item>
         <item>
             <title>テストタイトル3</title>
@@ -33,7 +33,7 @@
             </description>
             <link>https://www.click-sec.com/corp/tool/</link>
             <enclosure url="https://rococo-gr.github.io/rss_host/img/sample-image-1920x1008.png" length="111598" type="image/png"/>
-            <pubDate>Thu,8 May 2025 17:27:12 +0900</pubDate>
+            <pubDate>Thu,15 May 2025 17:27:12 +0900</pubDate>
         </item>
         <item>
             <title>テストタイトル4</title>
@@ -42,7 +42,7 @@
             </description>
             <link>https://www.click-sec.com/corp/guide/</link>
             <enclosure url="https://rococo-gr.github.io/rss_host/img/gpt_image_001.webp" length="111598" type="image/webp"/>
-            <pubDate>Thu,8 May 2025 17:27:13 +0900</pubDate>
+            <pubDate>Thu,15 May 2025 17:27:13 +0900</pubDate>
         </item>
         <item>
             <title>テストタイトル5</title>
@@ -51,7 +51,7 @@
             </description>
             <link>https://www.click-sec.com/corp/tool/</link>
             <enclosure url="https://rococo-gr.github.io/rss_host/img/gpt_image_002.webp" length="111598" type="image/webp"/>
-            <pubDate>Thu,8 May 2025 17:27:14 +0900</pubDate>
+            <pubDate>Thu,15 May 2025 17:27:14 +0900</pubDate>
         </item>
     </channel>
 </rss>
