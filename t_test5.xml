@@ -1,0 +1,66 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>テスト用XML</title>
+        <link>https://yahoo.co.jp/</link>
+        <description>This is description</description>
+        <language>ja-jp</language>
+        <pubDate>Fri, 1 Nov 2024 00:00:00 GMT</pubDate>
+        <lastBuildDate>Fri,11 Apr 2025 13:58:35 +0900</lastBuildDate>
+        <docs>https://www.rssboard.org/rss-specification</docs>
+        <atom:link href="https://www.rssboard.org/files/sample-rss-2.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>テストタイトル1</title>
+            <description>
+                <![CDATA[ テストディスクリプション1 ]]>
+            </description>
+            <link>https://yahoo.co.jp</link>
+            <enclosure url="https://rococo-gr.github.io/rss_host/img/sample-image-1920x1008.png" length="111598" type="image/png"/>
+            <pubDate>Thu,15 May 2025 17:27:11 +0900</pubDate>
+        </item>
+        <item>
+            <title>テストタイトル2</title>
+            <description>
+                <![CDATA[ テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2テストディスクリプション2 ]]>
+            </description>
+            <link>https://www.click-sec.com/corp/guide/</link>
+            <enclosure url="https://rococo-gr.github.io/rss_host/img/resized_1920x1008.png" length="111598" type="image/png"/>
+            <pubDate>Thu,15 May 2025 17:27:12 +0900</pubDate>
+        </item>
+        <item>
+            <title>テストタイトル3</title>
+            <description>
+                <![CDATA[ テストディスクリプション3 ]]>
+            </description>
+            <link>https://www.click-sec.com/corp/tool/</link>
+            <enclosure url="https://rococo-gr.github.io/rss_host/img/sample-image-1920x1008.png" length="111598" type="image/png"/>
+            <pubDate>Thu,15 May 2025 17:27:12 +0900</pubDate>
+        </item>
+        <item>
+            <title>テストタイトル4</title>
+            <description>
+                <![CDATA[ テストディスクリプション4 ]]>
+            </description>
+            <link>https://www.click-sec.com/corp/guide/?test=001</link>
+            <enclosure url="https://rococo-gr.github.io/rss_host/img/gpt_image_001.webp" length="111598" type="image/webp"/>
+            <pubDate>Thu,15 May 2025 17:27:13 +0900</pubDate>
+        </item>
+        <item>
+            <title>テストタイトル5</title>
+            <description>
+                <![CDATA[ テストディスクリプション5 ]]>
+            </description>
+            <link>https://www.click-sec.com/corp/tool/?test=001</link>
+            <enclosure url="https://rococo-gr.github.io/rss_host/img/gpt_image_002.webp" length="111598" type="image/webp"/>
+            <pubDate>Thu,15 May 2025 17:27:14 +0900</pubDate>
+        </item>
+        <item>
+            <title>テストタイトル6</title>
+            <description>
+                <![CDATA[ テストディスクリプション5 ]]>
+            </description>
+            <link>https://www.click-sec.com/corp/tool/?test=002</link>
+            <enclosure url="https://rococo-gr.github.io/rss_host/img/gpt_image_001.webp" length="111598" type="image/webp"/>
+            <pubDate>Thu,15 May 2025 17:27:14 +0900</pubDate>
+        </item>
+    </channel>
+</rss>
