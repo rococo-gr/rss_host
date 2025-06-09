@@ -40,7 +40,7 @@
             <description>
                 <![CDATA[ テストディスクリプション4 ]]>
             </description>
-            <link>https://www.click-sec.com/corp/guide/</link>
+            <link>https://www.click-sec.com/corp/guide/?test=001</link>
             <enclosure url="https://rococo-gr.github.io/rss_host/img/gpt_image_001.webp" length="111598" type="image/webp"/>
             <pubDate>Thu,15 May 2025 17:27:13 +0900</pubDate>
         </item>
@@ -49,7 +49,7 @@
             <description>
                 <![CDATA[ テストディスクリプション5 ]]>
             </description>
-            <link>https://www.click-sec.com/corp/tool/</link>
+            <link>https://www.click-sec.com/corp/tool/?test=001</link>
             <enclosure url="https://rococo-gr.github.io/rss_host/img/gpt_image_002.webp" length="111598" type="image/webp"/>
             <pubDate>Thu,15 May 2025 17:27:14 +0900</pubDate>
         </item>
