@@ -62,14 +62,5 @@
             <enclosure url="https://rococo-gr.github.io/rss_host/img/gpt_image_001.webp" length="111598" type="image/webp"/>
             <pubDate>Thu,15 May 2025 17:27:14 +0900</pubDate>
         </item>
-        <item>
-            <title>テストタイトル7</title>
-            <description>
-                <![CDATA[ テストディスクリプション7 ]]>
-            </description>
-            <link>https://www.click-sec.com/corp/tool/?test=002</link>
-            <enclosure url="https://rococo-gr.github.io/rss_host/img/gpt_image_001.webp" length="111598" type="image/webp"/>
-            <pubDate>Thu,15 May 2025 17:27:15 +0900</pubDate>
-        </item>
     </channel>
 </rss>
